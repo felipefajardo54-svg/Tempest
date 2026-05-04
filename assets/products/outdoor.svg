@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Producto outdoor">
+  <rect width="600" height="600" fill="#1f1f1f"/>
+  <path d="M70 430 L235 190 L335 430 Z" fill="#f5c518"/>
+  <path d="M260 430 L395 245 L535 430 Z" fill="#fff" opacity=".88"/>
+  <path d="M235 190 L270 430 M395 245 L430 430" stroke="#111" stroke-width="12" opacity=".75"/>
+  <circle cx="475" cy="120" r="44" fill="#f5c518"/>
+</svg>

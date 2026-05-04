@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Producto de ciclismo">
+  <rect width="600" height="600" fill="#1f1f1f"/>
+  <circle cx="180" cy="390" r="86" fill="none" stroke="#f5c518" stroke-width="22"/>
+  <circle cx="430" cy="390" r="86" fill="none" stroke="#f5c518" stroke-width="22"/>
+  <path d="M180 390 L282 250 L340 390 L180 390 L260 390 L430 390 L350 250 L282 250" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 250 L400 210 M282 250 L262 205 L226 205" stroke="#f5c518" stroke-width="18" stroke-linecap="round"/>
+</svg>

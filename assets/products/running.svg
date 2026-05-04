@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Producto de running">
+  <rect width="600" height="600" fill="#1f1f1f"/>
+  <circle cx="455" cy="125" r="72" fill="#f5c518" opacity=".9"/>
+  <path d="M94 355 C168 272 266 238 366 260 C430 274 480 320 535 344 C556 354 565 378 552 398 C538 418 511 430 474 430 L182 430 C112 430 68 402 62 374 C60 366 70 358 94 355 Z" fill="#f5c518"/>
+  <path d="M110 375 C205 350 312 346 418 374 C464 386 500 404 544 410" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round"/>
+  <path d="M238 296 L286 366 M318 292 L356 368" stroke="#111" stroke-width="9" stroke-linecap="round"/>
+</svg>
